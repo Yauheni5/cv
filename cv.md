@@ -13,11 +13,13 @@ Hi, my name is Yauheni. I am from Hrodno, Belarus. I am 34 years old. I study at
 * [How to learn](https://github.com/Yauheni5/how-to-learn)
 * [Travel](https://github.com/Yauheni5/russian-travel)
 * [some JavaScript](https://github.com/Yauheni5/--------)
+* [minigame](https://github.com/Yauheni5/jsPractic)
 
 ## MY PROJECTS:
 * [Mesto](https://yauheni5.github.io/mesto/index.html)
 * [How to learn](https://yauheni5.github.io/how-to-learn/index.html)
 * [Travel](https://yauheni5.github.io/russian-travel/index.html)
+* [minigame](https://yauheni5.github.io/jsPractic/)
 
 ## EDUCATION:
 * YandexPraktikum (Web-development)
