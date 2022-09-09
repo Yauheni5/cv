@@ -9,6 +9,7 @@
 Hi, my name is Yauheni. I am from Hrodno, Belarus. I am 34 years old. I study at the faculty of web programming, because I really like it and I see my development in this. I am also very hardworking and diligent, but this was not appreciated in my previous jobs. I'm sure everything will work out!
 
 ## CODE EXAMPLES:
+* [CodewarsCoding](https://www.codewars.com/users/Yauheni5/completed_solutions)
 * [Mesto](https://github.com/Yauheni5/mesto)
 * [How to learn](https://github.com/Yauheni5/how-to-learn)
 * [Travel](https://github.com/Yauheni5/russian-travel)
