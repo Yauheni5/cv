@@ -17,3 +17,7 @@
 @import url('../blocks/main-section/__info/main-section__info.css');
 @import url('../blocks/main-section/__link/main-section__link.css');
 @import url('../blocks/main-section/__list-element/main-section__list-element.css');
+
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__logo-rs/footer__logo-rs.css');
+@import url('../blocks/footer/__link/footer__link.css');
