@@ -1,0 +1,6 @@
+.menu__item {
+  padding: 5px;
+  border: 1px solid white;
+  background-color: rgba(121, 110, 110, .3);
+  border-radius: 20px;
+}
