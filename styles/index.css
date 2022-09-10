@@ -19,5 +19,6 @@
 @import url('../blocks/main-section/__list-element/main-section__list-element.css');
 
 @import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__text/footer__text.css');
 @import url('../blocks/footer/__logo-rs/footer__logo-rs.css');
 @import url('../blocks/footer/__link/footer__link.css');
