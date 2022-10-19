@@ -1,11 +1,10 @@
 .main-section__link {
-
   text-decoration: none;
-  transition: opacity .5s;
+  color: white;
+  transition: opacity .5s linear;
+  cursor: pointer;
 }
 
 .main-section__link:hover {
-  text-decoration: none;
   opacity: 0.6;
-  cursor: pointer;
 }
