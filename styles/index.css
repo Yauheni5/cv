@@ -1,0 +1,24 @@
+@import url('../vendor/normalize.css');
+
+@import url('../blocks/page/page.css');
+
+@import url('../blocks/header/header.css');
+
+@import url('../blocks/menu/menu.css');
+@import url('../blocks/menu/__list/menu__list.css');
+@import url('../blocks/menu/__link/menu__link.css');
+@import url('../blocks/menu/__item/menu__item.css');
+
+@import url('../blocks/main-section/main-section.css');
+@import url('../blocks/main-section/__title/main-section__title.css');
+@import url('../blocks/main-section/__img/main-section__img.css');
+@import url('../blocks/main-section/__subtitle/main-section__subtitle.css');
+@import url('../blocks/main-section/__text/main-section__text.css');
+@import url('../blocks/main-section/__info/main-section__info.css');
+@import url('../blocks/main-section/__link/main-section__link.css');
+@import url('../blocks/main-section/__list-element/main-section__list-element.css');
+
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__text/footer__text.css');
+@import url('../blocks/footer/__logo-rs/footer__logo-rs.css');
+@import url('../blocks/footer/__link/footer__link.css');

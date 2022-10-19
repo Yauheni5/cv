@@ -1,0 +1,5 @@
+.main-section__info {
+  display: grid;
+  align-items: center;
+  grid-template-columns: auto auto;
+}
