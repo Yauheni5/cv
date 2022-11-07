@@ -1,6 +1,13 @@
 .menu__item {
-  padding: 5px;
+  padding: 10px;
   border: 1px solid white;
   background-color: rgba(121, 110, 110, .3);
   border-radius: 20px;
+}
+
+@media (max-width: 865px) {
+  .menu__item {
+    padding: 5px;
+    border-radius: 10px;
+  }
 }

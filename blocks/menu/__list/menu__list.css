@@ -7,3 +7,9 @@
   list-style: none;
   gap: 20px;
 }
+
+@media (max-width: 865px) {
+  .menu__list {
+    gap: 5px;
+  }
+}
